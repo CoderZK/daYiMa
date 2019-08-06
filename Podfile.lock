@@ -1,0 +1,28 @@
+PODS:
+  - Masonry (1.0.2)
+  - MJRefresh (3.1.17)
+  - SVProgressHUD (2.0.4)
+  - UICountingLabel (1.4.1)
+
+DEPENDENCIES:
+  - Masonry (~> 1.0.1)
+  - MJRefresh (~> 3.1.12)
+  - SVProgressHUD (~> 2.0.3)
+  - UICountingLabel (~> 1.4.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Masonry
+    - MJRefresh
+    - SVProgressHUD
+    - UICountingLabel
+
+SPEC CHECKSUMS:
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  MJRefresh: ee5b68f639775462faba4db0fd243baf4d42c2cf
+  SVProgressHUD: bfde85ed6c573ea802b9cb37894ed9b629034f1b
+  UICountingLabel: faf890b505d96312e324a86718f031fafffb0ccb
+
+PODFILE CHECKSUM: 41aa3d1faf86d0fd5cdfe113e5e0a5310a021a11
+
+COCOAPODS: 1.7.0
